@@ -1,4 +1,4 @@
-# Zerodha Clone 📈
+# Zerodha 📈
 
 A full-stack web application inspired by [Zerodha](https://zerodha.com/), India's leading stock trading platform. This project is built to mimic core functionalities such as user authentication, market data viewing, and a responsive UI.
 
